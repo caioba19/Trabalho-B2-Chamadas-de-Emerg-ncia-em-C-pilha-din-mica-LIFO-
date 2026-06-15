@@ -1,4 +1,4 @@
-# 🚨 Trabalho B2 – Chamadas de Emergência
+# Trabalho B2 – Chamadas de Emergência
 
 Implementação de uma **pilha dinâmica encadeada (LIFO)** em linguagem C, simulando um sistema de registro e atendimento de chamadas de emergência.
 
