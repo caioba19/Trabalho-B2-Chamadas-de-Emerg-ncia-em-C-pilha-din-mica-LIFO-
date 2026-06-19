@@ -183,3 +183,13 @@ gcc -o impressao trabalho_c.c -std=c99
 
 - Implementação da fila circular encadeada no Trabalho C exigiu atenção especial com o ponteiro do último nó apontando para o primeiro, especialmente nos casos de inserção e remoção com apenas um elemento na fila.
 - Garantir a liberação correta de toda a memória alocada ao encerrar os programas.
+
+---
+
+## Nota sobre a Implementação
+
+Conforme comunicado do professor em 18/06/2026, o trabalho foi ajustado para aceitar implementações com vetores de struct como versão obrigatória.
+
+Este grupo optou por manter a implementação original com **estruturas dinâmicas encadeadas** (nós, ponteiros, `malloc` e `free`), conforme previsto nas orientações iniciais do repositório.
+
+Todos os três programas utilizam alocação dinâmica de memória, sem nenhum vetor substituindo as estruturas. O grupo compreende o funcionamento do código e está apto a explicar cada parte da implementação.
