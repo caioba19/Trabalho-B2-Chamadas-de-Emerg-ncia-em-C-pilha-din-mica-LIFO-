@@ -45,13 +45,13 @@ Trabalho_Final_Estruturas_Dados/
 ├── README.md
 ├── relatorio.md
 ├── Trabalho_A/
-│   ├── trabalho_a.c        (versão obrigatória – vetor)
+│   ├── trabalho_a.c        
 │   └── dados_a.csv
 ├── Trabalho_B/
-│   ├── trabalho_b.c        (versão obrigatória – vetor)
+│   ├── trabalho_b.c       
 │   └── dados_b.csv
 ├── Trabalho_C/
-│   ├── trabalho_c.c        (versão obrigatória – vetor)
+│   ├── trabalho_c.c        
 │   └── dados_c.csv
 
 ```
