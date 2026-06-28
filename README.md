@@ -192,9 +192,3 @@ gcc -o impressao trabalho_c.c -std=c99
 
 - Implementação da fila circular simples em vetor (Trabalho C) exigiu uso de aritmética modular (`% MAX`) para que os índices de frente e fim reaproveitassem posições liberadas, em vez de "andar" indefinidamente pelo vetor.
 - Adaptar o cancelamento de um trabalho no meio da fila exigiu deslocar os elementos seguintes para preencher a posição removida, recalculando o índice de fim corretamente.
-
----
-
-## Material Extra – Versão com Estruturas Dinâmicas
-
-Na pasta `Extra_Versao_Dinamica/` estão as implementações originais dos três trabalhos usando **listas, pilhas e filas encadeadas dinamicamente** (nós, ponteiros, `malloc` e `free`), conforme a proposta inicial do trabalho. Essa versão é apresentada como pontuação extra, conforme indicado pelo professor, e segue a mesma lógica funcional da versão em vetor, porém com alocação dinâmica de memória.
